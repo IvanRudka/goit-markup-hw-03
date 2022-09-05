@@ -14,6 +14,7 @@
   --secondary-bcg-color: #f5f4fa;
   --active-btn: #188ce8;
   --footer-contact-color: rgba(255, 255, 255, 0.6);
+  --header-border-color: #ececec;
   --filter-border-color: #eeeeee;
 }
 
@@ -60,7 +61,7 @@ body {
 .page-header {
   border-bottom-width: 1px;
     border-bottom-style: solid;
-    border-bottom-color: #ececec;
+    border-bottom-color: var(--header-border-color);
 }
 
 .logo {
