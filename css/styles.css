@@ -215,8 +215,6 @@ body {
 .button-filter:hover,
 .button-filter:focus,
 .button-filter:active {
-  padding: 6px 25px;
-  
   color: var(--primary-white-color);
   background-color: var(--accent-color);
 }
